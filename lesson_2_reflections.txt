@@ -6,3 +6,5 @@ How is the staging area different from the working directory and the repository?
 it is like the cache or temporary step between, options to modify or reflect on what you want to commit
 
 
+How can you use the staging area to make sure you have one commit per logical change?
+review changes to confirm change status and point to create the commit
